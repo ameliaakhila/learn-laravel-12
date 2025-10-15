@@ -1,0 +1,19 @@
+/* === Base Tailwind === */
+@import "tailwindcss";
+
+/* === FontAwesome === */
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+/* === Flowbite Theme === */
+@import "flowbite/src/themes/default";
+
+/* === Flowbite Plugin === */
+/* @plugin "flowbite/plugin"; */
+
+/* === Flowbite Source (agar komponen JS terdeteksi) === */
+/* @source "../node_modules/flowbite"; */
+
+/* === Laravel Blade dan JS Sources === */
+/* @source "../../resources*.blade.php";
+@source "../../resources*.js";
+@source "../../resources*.vue"; */
